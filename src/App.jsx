@@ -1,5 +1,5 @@
-import StepCounter from "./components/StepCounter";
+import AboutForm from "./components/AboutForm";
 function App() {
-  return <StepCounter />;
+  return <AboutForm />;
 }
 export default App;
